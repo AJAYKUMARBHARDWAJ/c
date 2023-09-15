@@ -1,2 +1,4 @@
-include studio.h
-hello world
+int a, b,c;
+sum =a+b+c;
+printf('sum ');
+
