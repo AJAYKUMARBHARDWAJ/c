@@ -1,2 +1,2 @@
-# c
-Hello World
+include studio.h
+hello world
